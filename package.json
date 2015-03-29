@@ -1,0 +1,19 @@
+{
+  "name": "flux-app",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-browserify": "*",
+    "gulp-concat": "*",
+    "react": "*",
+    "reactify": "*"
+  },
+  "dependencies": {
+    "es6-promise": "*",
+    "flux": "*",
+    "underscore": "*"
+  }
+}
