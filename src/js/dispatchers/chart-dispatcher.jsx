@@ -4,7 +4,7 @@ var ChartDispatcher = new Dispatcher();
 
 ChartDispatcher.handleViewAction = function (action) {
 
-	console.log('ChartDispatcher handleViewAction', action);
+  console.log('ChartDispatcher handleViewAction', action);
 
   this.dispatch({
     source: 'VIEW_ACTION',
